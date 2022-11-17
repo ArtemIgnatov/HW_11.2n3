@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5071E4FD-AE93-4847-9E6E-9F40B5AE89C8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HW_11.2n3/Menu.cs">
+    <Files>
+      <File FileName="HW_11.2n3/Program.cs" Line="10" Column="34" />
+      <File FileName="HW_11.2n3/Client.cs" Line="40" Column="1" />
+      <File FileName="HW_11.2n3/Manager.cs" Line="90" Column="36" />
+      <File FileName="HW_11.2n3/Consultant.cs" Line="78" Column="36" />
+      <File FileName="HW_11.2n3/Menu.cs" Line="17" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HW_11.2n3" expanded="True">
+            <Node name="HW_11.2n3" expanded="True">
+              <Node name="Menu.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HW__11.2n3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

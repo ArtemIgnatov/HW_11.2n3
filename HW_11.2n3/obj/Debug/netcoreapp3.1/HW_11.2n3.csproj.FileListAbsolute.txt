@@ -1,0 +1,13 @@
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/bin/Debug/netcoreapp3.1/HW_11.2n3.deps.json
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/bin/Debug/netcoreapp3.1/HW_11.2n3.runtimeconfig.json
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/bin/Debug/netcoreapp3.1/HW_11.2n3.runtimeconfig.dev.json
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/bin/Debug/netcoreapp3.1/HW_11.2n3.dll
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/bin/Debug/netcoreapp3.1/HW_11.2n3.pdb
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.csproj.AssemblyReference.cache
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.AssemblyInfoInputs.cache
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.AssemblyInfo.cs
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.csproj.CoreCompileInputs.cache
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.dll
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.pdb
+/Users/aj28/Desktop/C#/HW_11.2n3/HW_11.2n3/obj/Debug/netcoreapp3.1/HW_11.2n3.genruntimeconfig.cache
